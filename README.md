@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante universitário | CESMAC|<br>- Desenvolvedor web<br>-  front-end</p>
+<p align="left">- Estudante universitário | CESMAC |<br>- Desenvolvedor web<br>-  front-end</p>
 
 ###
 
