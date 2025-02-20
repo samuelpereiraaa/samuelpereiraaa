@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologia</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -33,6 +33,9 @@
 ###
 
 ###
+
+<img align="right" height="185" src="https://i.pinimg.com/originals/a4/11/4f/a4114ffbc99e01069a7e188d927cf94d.gif"  />
+
 ###
 
 
@@ -51,6 +54,5 @@
 </div>
 
 ###
-###
 
-<img src="https://raw.githubusercontent.com/samuelpereiraaa/samuelpereiraaa/output/snake.svg" alt="Snake animation" />
+
