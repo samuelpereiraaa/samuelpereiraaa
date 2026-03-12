@@ -1,60 +1,53 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">- Estudante universitário | CESMAC |<br>- Desenvolvedor web
+<p align="left">- Java developer<br>- University student at CESMAC</p>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-
-###
-
-<h2 align="left">Estatísticas</h2>
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelpereiraaa&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="180" alt="activity-graph graph"  />
-</div>
-
-###
-
-###
-###
-<h2 align="left">Mídias Sociais</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/samuel-pereira-782353322?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWAqAq6%2F4SVe9xNFUVUDBHA%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
- 
-  </a>
-  <a href="https://www.instagram.com/samuelpereiiraa_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="46" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="46" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
+<h2 align="left">Stats</h2>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelpereiraaa&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="16" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelpereiraaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="16" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelpereiraaa&theme=chartreuse-dark&radius=20" height="50" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="samuelpereiiraa_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="sammycarry" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-pereira-782353322/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
