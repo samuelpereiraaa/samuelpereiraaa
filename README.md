@@ -26,19 +26,29 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelpereiraaa&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelpereiraaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelpereiraaa&theme=chartreuse-dark&radius=100" height="202" alt="activity-graph graph"  />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelpereiraaa/samuelpereiraaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelpereiraaa/samuelpereiraaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelpereiraaa/samuelpereiraaa/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
+
+
 
 ###
+
+
+
+
 
 <div align="left">
   <a href="samuelpereiiraa_" target="_blank">
