@@ -28,9 +28,10 @@
 
 ###
 
-<br clear="both">
+<br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelpereiraaa&theme=chartreuse-dark&radius=100" height="202" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelpereiraaa&theme=chartreuse-dark&radius=100" height="202" alt="activity-graph graph" />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelpereiraaa/samuelpereiraaa/output/pacman-contribution-graph-dark.svg">
